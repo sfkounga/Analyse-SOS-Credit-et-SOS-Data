@@ -72,6 +72,6 @@ Le tableau de bord interactif Power BI peut être téléchargé gratuitement ET 
 [KPI_01]: FILE/Dashboard_SOS_Crédit.png
 [KPI_02]: FILE/Dashboard_SOS_Data.png
 [Dataset]: FILE/Dataset.xlsx
-[Dashboard]: FILE/XYZ__Dashboard__SOS Service.pbix
+[Dashboard]: FILE/DashboardSOS.pbix
 
 </html>
