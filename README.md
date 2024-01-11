@@ -40,7 +40,7 @@ Afin de juger de la pertinence du taux de commissionnement et de la rentabilité
 
 
 ## III. PHASE PREPARATOIRE :
-Le fichier ![Dataset][Dataset] contient le jeu de données utilisées pour cette analyse. Les feuilles SOS CREDIT (RAW) et SOS DATA (RAW) contiennent respectivement les données brutes et non retraitées tel que reçues par les équipes techniques de l'opérateur téléphonique XYZ. 
+Le fichier [Dataset.xlsx][Dataset] contient le jeu de données utilisées pour cette analyse. Les feuilles SOS CREDIT (RAW) et SOS DATA (RAW) contiennent respectivement les données brutes et non retraitées tel que reçues par les équipes techniques de l'opérateur téléphonique XYZ. 
 
 Les challenges auxquels j'ai pu faire face lors du traitement des données étaient les suivants :
 - Informations contenues dans plusieurs cellules fusionnées
