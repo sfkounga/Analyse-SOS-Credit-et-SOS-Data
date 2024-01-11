@@ -27,7 +27,7 @@ L'opérateur Téléphonique, que nous appelerons "XYZ", propose tout aussi ce se
 Le processus de gestion du SOS Crédit/Data est décrit sur le graphe ci-après : 
 
 ![Process][process_workflow]
-</br>
+</br> </br>
 
 ## II. OBJECTIFS : </br>
 Afin de juger de la pertinence du taux de commissionnement et de la rentabilité de ces services, l’opérateur téléphonique XYZ a souhaité pouvoir analyser de manière plus détaillée les états de reporting, qui sont produits à une fréquence journalière par le système. Ces états de reporting en l'état pouvant être considérés comme des états rapports opérationnelles ne permettent pas de manière intuitive et simple de répondre aux questions principales suivantes posées par le Top Management :
@@ -71,7 +71,7 @@ Le tableau de bord interactif Power BI peut être téléchargé gratuitement et 
 Pour toute(s) question(s) ou suggestion(s), n'hésitez pas à me contacter sur :
 mon profil [LinkedIn][linkedin] ou via mon eMail: sf.kounga@gmail.com
 
-</br>
+</br> </br>
 
 ## LICENCE
 
