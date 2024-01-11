@@ -39,7 +39,7 @@ Afin de juger de la pertinence du taux de commissionnement et de la rentabilité
 6. etc.
 
 
-## III. PHASE PREPARATOIRE :
+## III. PHASE PREPARATOIRE : </br>
 Le fichier [Dataset.xlsx][Dataset] contient le jeu de données utilisées pour cette analyse. Les feuilles SOS CREDIT (RAW) et SOS DATA (RAW) contiennent respectivement les données brutes et non retraitées tel que reçues par les équipes techniques de l'opérateur téléphonique XYZ. 
 
 Les challenges auxquels j'ai pu faire face lors du traitement des données étaient les suivants :
@@ -52,7 +52,7 @@ Les challenges auxquels j'ai pu faire face lors du traitement des données étai
 Les feuilles SOS CREDIT (FORMATED) et SOS DATA (FORMATED) contiennent les données retraitées par mes soins et qui ont été chargées dans l'outil Power BI afin de créer les différents Tableaux de bord permettant de répondre aux questions mentionnées ci-haut mais aussi pouvant permetteant de ressortir d'autres KPI.
 
 
-## IV. RESULTATS :
+## IV. RESULTATS :</br>
 Les graphes ci-après sont des extraits du Dashboard développé et mis à disposition du Top Management qui leur permettra désormais en toute indépendance de procéder à l'analyse de la pertinence du taux de commissionnement et de la rentabilité des services SOS Crédit et SOS Data.
 
 
@@ -60,10 +60,20 @@ Les graphes ci-après sont des extraits du Dashboard développé et mis à dispo
 ![KPI][KPI_02]</br></br>
 
 
-## V. DÉMO</br>
-Le fichier *.PBIX peut pêtre téléchargé gratuitement via le lien ci-après.
-Le tableau de bord interactif Power BI peut être téléchargé gratuitement ET consulté en cliquant sur ce [LIEN][Dashboard]
+## V. DÉMO : </br>
+Le tableau de bord interactif Power BI peut être téléchargé gratuitement et consulté en cliquant sur ce [LIEN][Dashboard]
 
+
+
+## VI. REMARQUES : </br>
+Pour toute(s) question(s) ou suggestion(s), n'hésitez pas à me contacter sur :
+mon profil [LinkedIn][linkedin] ou via mon eMail: sf.kounga@gmail.com
+
+
+
+## LICENCE
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
 </body
  
 <!-- Image Links -->
@@ -73,5 +83,10 @@ Le tableau de bord interactif Power BI peut être téléchargé gratuitement ET 
 [KPI_02]: FILE/Dashboard_SOS_Data.png
 [Dataset]: FILE/Dataset.xlsx
 [Dashboard]: FILE/DashboardSOS.pbix
+
+<!-- Profile Links -->
+
+[linkedin]: https://www.linkedin.com/in/serge-kounga-a26365161
+[dashboard_link]: 
 
 </html>
