@@ -13,7 +13,7 @@
 <table align ="Center">
   <tr>
     <td width="450" height="250"  CELLSPACING="0" et BORDER="1"> 
-      <img src= "FILES/Titre.png">
+      <img src= "FILE/Titre.png">
     </td> 
   </tr>
 </table>
