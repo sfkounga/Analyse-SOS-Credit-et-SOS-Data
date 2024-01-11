@@ -1,10 +1,9 @@
-body {
-	<style>
-                            @import url('https://fonts.cdnfonts.com/css/tw-cen-mt-std');
-</style>
-                
-}
-
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<link href="https://fonts.cdnfonts.com/css/tw-cen-mt-std" rel="stylesheet">         
+</head>	
+<body>
 ## I. CONTEXTE : </br>
 Les opérateurs téléphoniques implantés dans les pays d'Afrique Sub saharienne ont pour coutume de mettre à disposition de leurs clients prépayés les services SOS Crédit et SOS Data. Il s'agit d'un service permettant aux clients prépayés d’emprunter du crédit ou des forfaits internet, dont le montant correspondant (en plus d'une commission) sera débité de leurs comptes lors de leurs prochaines recharges de crédit téléphonique.
 
@@ -44,7 +43,7 @@ Le fichier *.PBIX peut pêtre téléchargé gratuitement via le lien ci-après.
 
 ![KPI][KPI_01]</br>
 ![KPI][KPI_02]</br>
-
+</body
 <!-- Image Links -->
 
 [process_workflow]: FILE/SOS_Process.png
