@@ -3,9 +3,9 @@
 <html lang="fr">
 
  <head>
-<style>
-@import url('https://fonts.cdnfonts.com/css/tw-cen-mt-std');
-</style>
+  
+<link href="https://fonts.cdnfonts.com/css/tw-cen-mt" rel="stylesheet">
+                
  </head>	
 
  <body font-family: 'Tw Cen MT', sans-serif;>
