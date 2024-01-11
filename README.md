@@ -27,7 +27,7 @@ L'opérateur Téléphonique, que nous appelerons "XYZ", propose tout aussi ce se
 Le processus de gestion du SOS Crédit/Data est décrit sur le graphe ci-après : 
 
 ![Process][process_workflow]
-
+</br>
 
 ## II. OBJECTIFS : </br>
 Afin de juger de la pertinence du taux de commissionnement et de la rentabilité de ces services, l’opérateur téléphonique XYZ a souhaité pouvoir analyser de manière plus détaillée les états de reporting, qui sont produits à une fréquence journalière par le système. Ces états de reporting en l'état pouvant être considérés comme des états rapports opérationnelles ne permettent pas de manière intuitive et simple de répondre aux questions principales suivantes posées par le Top Management :
@@ -55,16 +55,23 @@ Les feuilles SOS CREDIT (FORMATED) et SOS DATA (FORMATED) contiennent les donné
 ## IV. RESULTATS :
 Les graphes ci-après sont des extraits du Dashboard développé et mis à disposition du Top Management qui leur permettra désormais en toute indépendance de procéder à l'analyse de la pertinence du taux de commissionnement et de la rentabilité des services SOS Crédit et SOS Data.
 
-Le fichier *.PBIX peut pêtre téléchargé gratuitement via le lien ci-après.
 
-![KPI][KPI_01]</br>
-![KPI][KPI_02]</br>
+![KPI][KPI_01]</br></br>
+![KPI][KPI_02]</br></br>
+
+
+## V. DÉMO</br>
+Le fichier *.PBIX peut pêtre téléchargé gratuitement via le lien ci-après.
+Le tableau de bord interactif Power BI peut être téléchargé gratuitement ET consulté en cliquant sur ce [LIEN][Dashboard]
+
 </body
+ 
 <!-- Image Links -->
 
 [process_workflow]: FILE/SOS_Process.png
 [KPI_01]: FILE/Dashboard_SOS_Crédit.png
 [KPI_02]: FILE/Dashboard_SOS_Data.png
 [Dataset]: FILE/Dataset.xlsx
- 
+[Dashboard]: FILE/XYZ__Dashboard__SOS Service.pbix
+
 </html>
