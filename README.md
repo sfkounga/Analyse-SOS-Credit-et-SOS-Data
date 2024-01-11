@@ -35,7 +35,7 @@ Afin de juger de la pertinence du taux de commissionnement et de la rentabilité
 2. Quel est le pourcentage moyen de remboursement des SOS Crédit et Data ?
 3. Quel est le nombre total de lients ayant déjà utilisé le service SOS crédit et Data ? 
 4. Quelle est l'évolution graphique des montants totaux octroyés et remboursés ?
-5. Quelle est le forfait Data à succès auprès des clients et quel est le chiffre d'affaires généré ainsi que le taux de remboursement ?
+5. Quel est le forfait Data à succès auprès des clients et quel est le chiffre d'affaires généré ainsi que le taux de remboursement ?
 6. etc.
 
 </br>
