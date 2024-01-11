@@ -15,7 +15,8 @@ Les opérateurs téléphoniques implantés dans les pays d'Afrique Sub saharienn
 
 L'opérateur Téléphonique, que nous appelerons "XYZ", propose tout aussi ce service à sa clientèle via le canal d'un prestataire (ABC), qui détient une plateforme d'analyse et de profilage de la clientèle. Les plateformes de XYZ et ABC échangent des données via une interface API. 
 
-Le processus est décrit sur le graphe ci-après : 
+Le processus de gestion du SOS Crédit/Data est décrit sur le graphe ci-après : 
+
 ![Process][process_workflow]
 
 
