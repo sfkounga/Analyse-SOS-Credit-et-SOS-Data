@@ -65,7 +65,6 @@ Les graphes ci-après sont des extraits du Dashboard développé et mis à dispo
 
 ## V. DÉMO : </br>
 Le tableau de bord interactif Power BI peut être téléchargé gratuitement et consulté en cliquant sur ce [LIEN][Dashboard]
-
 </br>
 
 ## VI. REMARQUES : </br>
