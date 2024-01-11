@@ -1,3 +1,10 @@
+body {
+	<style>
+                            @import url('https://fonts.cdnfonts.com/css/tw-cen-mt-std');
+</style>
+                
+}
+
 ## I. CONTEXTE : </br>
 Les opérateurs téléphoniques implantés dans les pays d'Afrique Sub saharienne ont pour coutume de mettre à disposition de leurs clients prépayés les services SOS Crédit et SOS Data. Il s'agit d'un service permettant aux clients prépayés d’emprunter du crédit ou des forfaits internet, dont le montant correspondant (en plus d'une commission) sera débité de leurs comptes lors de leurs prochaines recharges de crédit téléphonique.
 
